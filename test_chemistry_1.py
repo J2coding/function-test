@@ -5,6 +5,7 @@ from pytest import approx
 import pytest
 
 
+
 # These are the indexes of the
 # elements in the periodic table.
 SYMBOL_INDEX = 0
